@@ -1,12 +1,9 @@
-# Scraping Detik.com
+# Scraping detik.com
 
 ## Deskripsi
-Repository ini berisi kode dan data hasil scraping dari portal berita Detik.com.
-
----
+Repository ini berisi kode dan data hasil scraping dari portal berita detik.com
 
 ## File
-
 ### 1. scraping.ipynb
 File Jupyter Notebook yang berisi
 - Scraping artikel dari Detik.com.
@@ -19,8 +16,6 @@ File CSV hasil scraping mentah. Berisi:
 ### 3. berita_final.csv
 File CSV hasil preprocessing dari berita.csv. Berisi:
 - judul, tanggal, konten, kategori, clean (konten yang sudah dibersihkan)
-
----
 
 ## Catatan
 - Pastikan koneksi internet stabil selama proses scraping
